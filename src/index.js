@@ -1,1 +1,2 @@
-console.log("Mundo, olá!");
+let nome = "Law";
+console.log(nome);
